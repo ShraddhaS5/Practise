@@ -18,4 +18,6 @@ public class AppTest
         assertTrue( true );
     }
     System.out.println("test");
+        System.out.println("test1");
+
 }
